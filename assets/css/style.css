@@ -1,0 +1,141 @@
+
+
+header {
+    background: url(../images/panoramic.jpg) no-repeat;
+    background-size:cover;
+    background-position: center;
+    min-height: 520px;
+    text-align: center;
+    padding-top: 180px;
+    color: white;
+    font-family: "Open sans", Helvetica, Arial;
+    font-weight: 300;
+}
+
+.header-title {
+	font-family: "Open sans", Helvetica, Arial;
+	font-size: 48px;
+	color: black;
+    font-weight: bold;
+}
+
+.deco{
+    background-image: url(../images/clermont.jpg);
+    background-size:cover;
+    background-position: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.w100 {
+    min-width: 100%;
+}
+
+.decoblanc {
+    background-color: rgba(255, 255, 255, 0.795);
+    min-width: 100vw;
+}
+
+.space{
+    height: 20px;
+}
+
+.thin {
+	font-weight: 300;
+}
+
+.h-caption {
+	text-align: center;
+}
+
+h4 a, h4 a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.footer1, .footer1 a {
+    color: white;
+    background-color: rgb(65, 65, 65);
+}
+
+.footer2, .footer2 a {
+    color: white;
+    background-color: rgb(51, 51, 51);
+}
+
+/*gastronomie*/
+
+#headGastronomie{
+    background: url(../images/resto.jpg) no-repeat;
+    background-size:cover;
+    background-position: center;
+    min-height: 520px;
+    text-align: center;
+    padding-top: 180px;
+    color: white;
+    font-family: "Open sans", Helvetica, Arial;
+    font-weight: 300;
+}
+
+.header-title-gastro {
+    font-family: "Open sans", Helvetica, Arial;
+	font-size: 48px;
+	color: white;
+    font-weight: bold;
+}
+
+.card-gastro{
+    max-width: 700px;
+}
+
+/*Monument*/
+
+#headMonument{
+    background: url(../images/puydedome.png) no-repeat;
+    background-size:cover;
+    background-position: center;
+    min-height: 520px;
+    text-align: center;
+    padding-top: 180px;
+    color: white;
+    font-family: "Open sans", Helvetica, Arial;
+    font-weight: 300;
+}
+
+/*culture*/
+#headCulture{
+    background: url(../images/peinture.jpg) no-repeat;
+    background-size:cover;
+    background-position: center;
+    min-height: 520px;
+    text-align: center;
+    padding-top: 180px;
+    color: white;
+    font-family: "Open sans", Helvetica, Arial;
+    font-weight: 300;
+}
+
+.culture-card {
+    height: 650px;
+    overflow-y: scroll;
+}
+
+/*rando*/ 
+
+#headRando {
+    background: url(../images/rando.jpg) no-repeat;
+    background-size:cover;
+    background-position: center;
+    min-height: 520px;
+    text-align: center;
+    padding-top: 180px;
+    color: white;
+    font-family: "Open sans", Helvetica, Arial;
+    font-weight: 300;
+}
+
+.card-rando {
+    max-height: 330px;
+    width: auto;
+}
+
